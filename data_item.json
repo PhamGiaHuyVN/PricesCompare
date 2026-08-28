@@ -1,0 +1,234 @@
+{
+    "products": [
+        {
+            "product_name": "Chai Xịt Rỉ Sét RP7 Selleys 150g",
+            "brand": "Selleys",
+            "price_vnd": 38000,
+            "is_combo": false,
+            "items_in_combo": 1,
+            "price_per_unit_vnd": 38000,
+            "star": 4.9,
+            "rate": 1250,
+            "sold_quantity": 5400,
+            "link_to_product": "https://shopee.vn/product/12345/67890",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "150g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Chai 150g",
+                    "price_vnd": 38000,
+                    "stock": 500
+                }
+            ]
+        },
+        {
+            "product_name": "Chai Xịt Bôi Trơn Chống Rỉ Sét Selleys RP7 300g Chính Hãng",
+            "brand": "Selleys",
+            "price_vnd": 65000,
+            "is_combo": false,
+            "items_in_combo": 1,
+            "price_per_unit_vnd": 65000,
+            "star": 5.0,
+            "rate": 3400,
+            "sold_quantity": 12800,
+            "link_to_product": "https://shopee.vn/product/12345/67891",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "300g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Chai 300g",
+                    "price_vnd": 65000,
+                    "stock": 1200
+                }
+            ]
+        },
+        {
+            "product_name": "Combo 2 Chai Xịt Chống Rỉ Sét Selleys RP7 300g",
+            "brand": "Selleys",
+            "price_vnd": 124000,
+            "is_combo": true,
+            "items_in_combo": 2,
+            "price_per_unit_vnd": 62000,
+            "star": 4.9,
+            "rate": 450,
+            "sold_quantity": 1500,
+            "link_to_product": "https://shopee.vn/product/12345/67892",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "300g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Combo 2 chai 300g",
+                    "price_vnd": 124000,
+                    "stock": 200
+                }
+            ]
+        },
+        {
+            "product_name": "Combo 3 Chai Dầu Xịt RP7 150g Tẩy Rỉ Sét Bôi Trơn",
+            "brand": "Selleys",
+            "price_vnd": 110000,
+            "is_combo": true,
+            "items_in_combo": 3,
+            "price_per_unit_vnd": 36667,
+            "star": 4.8,
+            "rate": 210,
+            "sold_quantity": 890,
+            "link_to_product": "https://shopee.vn/product/12345/67893",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "150g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Combo 3 chai 150g",
+                    "price_vnd": 110000,
+                    "stock": 150
+                }
+            ]
+        },
+        {
+            "product_name": "Dung Dịch Xịt RP7 Selleys Bôi Trơn Chống Gỉ Sét 175g",
+            "brand": "Selleys",
+            "price_vnd": 45000,
+            "is_combo": false,
+            "items_in_combo": 1,
+            "price_per_unit_vnd": 45000,
+            "star": 4.9,
+            "rate": 560,
+            "sold_quantity": 2300,
+            "link_to_product": "https://shopee.vn/product/12345/67894",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "175g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Chai 175g",
+                    "price_vnd": 45000,
+                    "stock": 350
+                }
+            ]
+        },
+        {
+            "product_name": "Bộ 5 Chai Xịt Chống Rỉ Sét Selleys RP7 300g Tiết Kiệm",
+            "brand": "Selleys",
+            "price_vnd": 300000,
+            "is_combo": true,
+            "items_in_combo": 5,
+            "price_per_unit_vnd": 60000,
+            "star": 5.0,
+            "rate": 88,
+            "sold_quantity": 420,
+            "link_to_product": "https://shopee.vn/product/12345/67895",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "300g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Bộ 5 chai 300g",
+                    "price_vnd": 300000,
+                    "stock": 80
+                }
+            ]
+        },
+        {
+            "product_name": "Dầu Xịt RP7 Selleys Đa Năng 350g (Mẫu Mới)",
+            "brand": "Selleys",
+            "price_vnd": 72000,
+            "is_combo": false,
+            "items_in_combo": 1,
+            "price_per_unit_vnd": 72000,
+            "star": 4.9,
+            "rate": 980,
+            "sold_quantity": 3900,
+            "link_to_product": "https://shopee.vn/product/12345/67896",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "350g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Chai 350g",
+                    "price_vnd": 72000,
+                    "stock": 600
+                }
+            ]
+        },
+        {
+            "product_name": "Set 2 Chai Dầu Bôi Trơn Xịt Rỉ Sét RP7 175g",
+            "brand": "Selleys",
+            "price_vnd": 86000,
+            "is_combo": true,
+            "items_in_combo": 2,
+            "price_per_unit_vnd": 43000,
+            "star": 4.7,
+            "rate": 130,
+            "sold_quantity": 610,
+            "link_to_product": "https://shopee.vn/product/12345/67897",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "175g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Set 2 chai 175g",
+                    "price_vnd": 86000,
+                    "stock": 190
+                }
+            ]
+        },
+        {
+            "product_name": "Chai Xịt Tẩy Rỉ Sét Bôi Trơn Kim Loại RP7 100g",
+            "brand": "Selleys",
+            "price_vnd": 32000,
+            "is_combo": false,
+            "items_in_combo": 1,
+            "price_per_unit_vnd": 32000,
+            "star": 4.8,
+            "rate": 740,
+            "sold_quantity": 2800,
+            "link_to_product": "https://shopee.vn/product/12345/67898",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "100g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Chai 100g",
+                    "price_vnd": 32000,
+                    "stock": 400
+                }
+            ]
+        },
+        {
+            "product_name": "Lô 4 Chai Dầu Xịt RP7 Selleys 300g Giá Sỉ",
+            "brand": "Selleys",
+            "price_vnd": 244000,
+            "is_combo": true,
+            "items_in_combo": 4,
+            "price_per_unit_vnd": 61000,
+            "star": 4.9,
+            "rate": 65,
+            "sold_quantity": 310,
+            "link_to_product": "https://shopee.vn/product/12345/67899",
+            "all_colors": [],
+            "all_sizes_or_weights": [
+                "300g"
+            ],
+            "variants": [
+                {
+                    "variant_name": "Lô 4 chai 300g",
+                    "price_vnd": 244000,
+                    "stock": 50
+                }
+            ]
+        }
+    ]
+}
