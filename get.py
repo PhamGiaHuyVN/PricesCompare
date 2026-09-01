@@ -77,7 +77,7 @@ prompt_text = (
 )
 print(f"\nĐang tìm kiếm và trích xuất dữ liệu cho sản phẩm: '{user_product_name}'...")
 
-
+count = 1
 # hàm gọi API có cơ chế retry và đổi model dự phòng khi lỗi 503
 def generate_content_with_retry(prompt, models_to_try=["gemini-3.6-flash", "gemini-2.5-flash"]):
     for model_name in models_to_try:
@@ -95,6 +95,8 @@ def generate_content_with_retry(prompt, models_to_try=["gemini-3.6-flash", "gemi
                         max_output_tokens=8192
                     ),
                 )
+
+                print(f"Lấy sản phẩm {count} thành công")
                 return response
             except ServerError as e:
                 print(f"Máy chủ quá tải (Lỗi 503). Đợi 5 giây trước khi thử lại...")
@@ -115,5 +117,6 @@ try:
 
     print(
         f"\nTrích xuất thành công {len(data.get('products', []))} sản phẩm liên quan đến '{user_product_name}' vào file dataItem.json!")
+
 except Exception as e:
     print(f"\nKhông thể trích xuất dữ liệu: {e}")
